@@ -1,5 +1,4 @@
-<h2 align="left">Hi👋! I'm Adeel</h2>
-<h2 align="left">Software Engineering @ University of Waterloo🇨🇦</h2>
+<h2 align="left">Hi👋! I'm Adeel🇨🇦</h2>
 
 ###
 
