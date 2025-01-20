@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Adeel Akhani and I'm a Software Engineer, from Canada🇨🇦</h2>
+<h2 align="left">Hi👋! I'm Adeel</h2>
+<h2 align="left">Software Engineering @ University of Waterloo🇨🇦</h2>
 
 ###
 
