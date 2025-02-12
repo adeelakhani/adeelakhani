@@ -39,4 +39,8 @@
   </a>
 </div>
 
-###
+### 🔗 Links
+- 🌐 [Portfolio](https://your-portfolio-link.com)
+- 💻 [GitHub](https://github.com/yourusername)
+- 📜 [Resume](https://your-resume-link.com)
+- 🎮 [Itch.io](https://your-itch-link.com) (if you have game projects)
