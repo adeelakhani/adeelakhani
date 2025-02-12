@@ -40,7 +40,6 @@
 </div>
 
 ### 🔗 Links
-- 🌐 [Portfolio](https://your-portfolio-link.com)
-- 💻 [GitHub](https://github.com/yourusername)
-- 📜 [Resume](https://your-resume-link.com)
-- 🎮 [Itch.io](https://your-itch-link.com) (if you have game projects)
+- 🌐 [Website](https://adeelakhani.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/adeelakhani/)
+- 📧 [Email](aakhani@uwaterloo.ca)
