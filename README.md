@@ -1,10 +1,10 @@
 <h2 align="left">Hi 👋 I'm Adeel</h2>
 
-<img align="right" height="150"
-  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGlvb2k1bWUzcHFrMzg5Z20wMWo2Ymp6MjB1c2U1dTRpcTB5Mjk1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"
-/>
-
-<br clear="right"/>
+<p align="center">
+  <img height="150"
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGlvb2k1bWUzcHFrMzg5Z20wMWo2Ymp6MjB1c2U1dTRpcTB5Mjk1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"
+  />
+</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
@@ -40,6 +40,6 @@
 </div>
 
 ### 🔗 Links
-- 🌐 Website: https://adeelakhani.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/adeelakhani/  
+- 🌐 Website: https://adeelakhani.com
+- 💼 LinkedIn: https://www.linkedin.com/in/adeelakhani/
 - 📧 Email: aakhani@uwaterloo.ca
