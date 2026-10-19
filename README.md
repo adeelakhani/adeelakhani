@@ -4,9 +4,6 @@
   <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGlvb2k1bWUzcHFrMzg5Z20wMWo2Ymp6MjB1c2U1dTRpcTB5Mjk1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" />
 </p>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,py,cpp,cs,c,java,unity&perrow=5" />
-</div>
 
 <br/>
 
